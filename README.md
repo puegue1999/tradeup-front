@@ -18,7 +18,7 @@ https://github.com/puegue1999/tradeup-back
 
 ### Construção
 
-Para construir o projeto com o Maven, executar os comando abaixo:
+Para construir o projeto execute os comando abaixo:
 
 ```shell
 npm install
