@@ -13,8 +13,7 @@ git clone https://github.com/puegue1999/tradeup-front.git
 
 ```shell
 Back-end usado:
-cd "diretorio de sua preferencia"
-git clone https://github.com/puegue1999/tradeup-back.git
+https://github.com/puegue1999/tradeup-back
 ```
 
 ### Construção
