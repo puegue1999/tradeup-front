@@ -1,7 +1,5 @@
 # Front-End para o projeto para TradeUp
 
-## [![vue ^2.6.14](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)] [![vue-toastification ^2.6.14](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)] [![v-mask ^2.3.0](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)] [![axios ^1.6.7](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)]
-
 Esse é um front básico utilizando VueJs para a chamada do Back-End feito para o teste da TradeUp
 
 ## Desenvolvimento
@@ -11,6 +9,12 @@ Para iniciar o desenvolvimento, é necessário clonar o projeto do GitHub num di
 ```shell
 cd "diretorio de sua preferencia"
 git clone https://github.com/puegue1999/tradeup-front.git
+```
+
+```shell
+Back-end usado:
+cd "diretorio de sua preferencia"
+git clone https://github.com/puegue1999/tradeup-back.git
 ```
 
 ### Construção
